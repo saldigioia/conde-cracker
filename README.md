@@ -1,7 +1,7 @@
 # Condé Cracker
 ## Unlock Condé Nast's vault with the premier ripper for Vogue, Esquire, Vanity Fair, and Architectural Digest.
 
-### Overview
+## Overview
 Condé Cracker is a powerful tool for accessing a vast collection of iconic journalism from Condé Nast's prestigious archives. The app is built in Python and uses advanced web-scraping technology to seamlessly downloads full issues from publications including Vogue, Esquire, Vanity Fair, and Architectural Digest spanning over a century. 
 
 After fetching the content, Condé Cracker efficiently processes and organizes the high-quality scans into coherent directories, systematically renaming images and archiving full-length issues. If you enjoy Esquire's in-depth articles, Vogue's trend-setting fashion pieces, Architectural Digest's stunning home designs, or Vanity Fair's insightful cultural critiques, CondeCracker offers you effortless access to these historical archives on the grandest of scales.
