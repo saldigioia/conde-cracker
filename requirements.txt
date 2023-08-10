@@ -1,0 +1,10 @@
+requests==2.22.0
+beautifulsoup4==4.10.0
+bs4==0.0.1
+logging
+typing==3.7.4.3
+os
+argparse
+re
+shutil
+subprocess
